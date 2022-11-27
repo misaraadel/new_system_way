@@ -1857,6 +1857,12 @@ footer .copyrights p {
   header {
     padding: 150px 0px 80px;
   }
+  .custom-btn {
+    width: 140px !important;
+  }
+  .custom-btn span {
+    font-size: 14px !important;
+  }
   .about-us .nav-tabs {
     justify-content: space-between !important;
   }
